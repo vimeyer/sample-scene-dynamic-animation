@@ -4,6 +4,8 @@ With this Dynamic Animation, we're demonstrating how to employ simple data bindi
 
 You can learn more about our JSX-style lifecycle and rendering in our documentation: https://docs.decentraland.org/
 
+[explore the scene](https://dcl-project-fkmccoyvhb.now.sh/?position=0%2C-1): this link takes you to a copy of the scene deployed to a remote server where you can interact with it. You can also achieve the same by following the steps below and running it locally.
+
 
 **Install the CLI**
 
